@@ -39,7 +39,3 @@ Clone this repo
 ## Contributing
 
 If you’re knowledgeable in CouchDB and interested in contributing to this project, I’d love to hear from you. Your expertise could help turn this proof of concept into a fully functional tool. Please reach out if you’re interested in collaborating.
-
----
-
-This `README.md` provides a clear and structured introduction to the project, outlines how to get started, and includes a call for collaboration.
