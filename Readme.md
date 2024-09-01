@@ -1,12 +1,8 @@
-Here’s a refined `README.md` for your project:
-
----
-
-# Obsidian CouchDB Companion
+# Obsidian Live Sync Web Companion
 
 ## Overview
 
-This project is a demonstrator for integrating CouchDB with Obsidian, created as a quick start with the help of ChatGPT. The goal is to explore the potential of having an online companion for Obsidian’s Live Sync feature. Possible features include:
+This project is a demonstrator for a web companion based on Live Sync plugin for Obsidian, created as a quick start with the help of ChatGPT. The goal is to explore the potential of having an online companion for Obsidian’s Live Sync feature. Possible features include:
 
 - A simple task list extracted from your Obsidian notes.
 - A list of contacts or calendar entries based on YAML front matter.
