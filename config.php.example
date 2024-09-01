@@ -1,0 +1,14 @@
+<?php
+
+// CouchDB configuration
+return [
+    'protocol' => 'https',    // Protokoll: 'http' oder 'https'    
+    'host' => 'url.of.your.couchdb.',    // CouchDB-Host, z.B. 'localhost'
+    'port' => 5894,           // CouchDB-Port, Standard ist 5984
+    'user' => 'username',        // Benutzername, falls erforderlich
+    'pass' => 'password',     // Passwort, falls erforderlich
+    'dbname' => 'dbname', // Name der CouchDB-Datenbank
+    'limit' => 100              // Anzahl der abzurufenden Dokumente    
+];
+
+?>
